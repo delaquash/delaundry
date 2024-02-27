@@ -17,12 +17,14 @@
     "ios": {
       "supportsTablet": true
     },
+    
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       }
     },
+    "scheme": "delaundry-app",
     "web": {
       "favicon": "./assets/favicon.png"
     }
